@@ -1,0 +1,330 @@
+.body {
+    background-color: #522d72;
+    color: white;
+    padding: 20px;
+}
+
+.Flex {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    border-bottom: 1px solid;
+}
+
+.portfolio {
+    font-size: 50px;
+    width: 100px;
+}
+
+.profile {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 5px;
+}
+
+.sun {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 10px;
+    margin-left: 80px;
+}
+
+.date {
+    font-size: 30px;
+}
+
+.month {
+    text-decoration: none;
+}
+
+.month:hover {
+    border-bottom-style: solid;
+}
+
+
+.greet {
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    color: black;
+    flex-wrap: nowrap;
+}
+
+.colum {
+    width: 400px;
+    height: 500px;
+    background-color: #ffe7cce7;
+    margin: 40px 20px 0px;
+    border-radius: 10px;
+    padding: 20px;
+    border: 2px solid;
+    border-color: rgb(3, 3, 86);
+}
+
+.photo {
+    width: 80px;
+    height: 80px;
+}
+
+.biography {
+    padding: 20px 25px 10px;
+    font-size: 23px;
+}
+
+.data-science {
+    width: 250px;
+    height: 250px;
+    margin-top: 60px;
+}
+
+.msiLink {
+    text-decoration: none;
+    color: red;
+}
+
+.msiLink:hover {
+    border-bottom-style: dashed;
+}
+
+.msi {
+    text-decoration: none;
+    color: red;
+}
+
+.biography1 {
+    text-align: center;
+}
+
+.biography2 {
+    font-size: 23px;
+    padding: 20px;
+}
+
+.programming {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+#python {
+    width: 130px;
+    height: 130px;
+}
+
+.web {
+    width: 130px;
+    height: 130px;
+}
+
+.address {
+    text-align: center;
+}
+
+.linkbox {
+    margin-top: 70px;
+}
+
+.facebook {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 30px;
+}
+
+.gmail {
+    width: 40px;
+    height: 40px;
+}
+
+.linkedin {
+    width: 40px;
+    height: 40px;
+}
+
+.github {
+    width: 40px;
+    height: 40px;
+    margin-top: 30px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.job {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+.goodbye {
+    background-color: black;
+    height: 40px;
+    font-size: 25px;
+    padding: 20px 50px 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.html {
+    color: darkred;
+    background-color: aliceblue;
+    height: 50px;
+    padding: 20px;
+    margin-top: 20px;
+    border: 2px solid;
+    width: 100px;
+}
+
+.python {
+    background-color: rgb(0, 26, 255);
+    height: 50px;
+    padding: 20px;
+    margin-top: 20px;
+    border: 2px solid;
+    color: green;
+    width: 100px;
+}
+
+.javascript {
+    background-color: blueviolet;
+    height: 50px;
+    padding: 20px;
+    margin-top: 20px;
+    border: 2px solid;
+    color: blue;
+    width: 100px;
+}
+
+.p {
+    display: inline-block;
+    background-color: red;
+    width: 300px;
+}
+
+.hi {
+    display: inline;
+    background-color: blue;
+    width: 300px;
+}
+
+.secondBox {
+    display: flex;
+    justify-content: center;
+    color: black;
+    flex-wrap: nowrap;
+}
+
+.colum1 {
+    width: 400px;
+    height: 500px;
+    background-color: #ffe7cce7;
+    margin: 40px 20px 20px;
+    border-radius: 10px;
+    padding: 20px;
+    border: 2px solid;
+    border-color: rgb(3, 3, 86);
+}
+
+.visit {
+    text-align: center;
+    font-size: 20px;
+}
+
+.colum2 {
+    display: flex;
+}
+
+.child {
+    width: 200px;
+    height: 10px;
+    background-color: darkgray;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.myProfile {
+    width: 55px;
+    height: 55px;
+    margin-top: 47px;
+}
+
+.profileLink {
+    text-decoration: none;
+    color: #FF0303;
+    font-size: 18px;
+}
+
+.profileLink:hover {
+    border-bottom-style: solid;
+}
+
+.colum3 {
+    display: flex;
+}
+
+.child1 {
+    width: 200px;
+    height: 10px;
+    background-color: darkgray;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+
+.msiProfile {
+    width: 55px;
+    height: 55px;
+    margin-top: 60px;
+}
+
+.msilink {
+    text-decoration: none;
+    color: #FF0303;
+    font-size: 18px;
+}
+
+.msilink:hover {
+    border-bottom-style: solid;
+}
+
+.developerProfile {
+    width: 55px;
+    height: 55px;
+    margin-top: 60px;
+}
+
+.developerLink {
+    text-decoration: none;
+    color: #FF0303;
+    font-size: 18px;
+}
+
+.developerLink:hover {
+    border-bottom-style: solid;
+}
+
+
+.colum4 {
+    display: flex;
+}
+
+.child2 {
+    width: 200px;
+    height: 10px;
+    background-color: darkgray;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+
